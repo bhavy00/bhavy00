@@ -5,6 +5,10 @@ I am delighted to introduce myself as a highly motivated MERN stack developer an
 I have immersed myself in various programming challenges and honed my skills as a competitive programmer in C++. This experience has sharpened my problem-solving abilities and nurtured my understanding of data structures and algorithms.  
 
 I have developed a deep expertise in MongoDB, Express.js, React.js, and Node.js. Through several projects, I have gained hands-on experience in building full-stack web applications and implementing efficient and scalable solutions. I am well-versed in utilizing object-oriented programming concepts to develop robust and maintainable code. 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavy00&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bhavy00/bhavy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
