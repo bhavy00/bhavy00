@@ -6,14 +6,14 @@ I have immersed myself in various programming challenges and honed my skills as 
 
 I have developed a deep expertise in MongoDB, Express.js, React.js, and Node.js. Through several projects, I have gained hands-on experience in building full-stack web applications and implementing efficient and scalable solutions. I am well-versed in utilizing object-oriented programming concepts to develop robust and maintainable code. 
 
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />](https://www.linkedin.com/in/bhavy-jaiswal-2b6004139/)
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="" height="30" width="40" />](https://leetcode.com/bhavy02/)
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="" height="30" width="40" />](https://www.codechef.com/users/bhavy007)
 </p>
-
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavy00&show_icons=true&theme=radical&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
