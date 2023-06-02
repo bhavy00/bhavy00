@@ -14,6 +14,16 @@ I have developed a deep expertise in MongoDB, Express.js, React.js, and Node.js.
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="" height="30" width="40" />](https://www.codechef.com/users/bhavy007)
 </p>
 -->
+### Contact Me
+<div align="center">
+<a href="https://www.linkedin.com/in/bhavy-jaiswal-2b6004139/">
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:bhavy02@gmail.com">
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+</div>
+
 ### Languages, Tools and Skills
 <div align="center">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
@@ -35,11 +45,34 @@ I have developed a deep expertise in MongoDB, Express.js, React.js, and Node.js.
 
 ### Github Stats
 <div align="center">
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=bhavy00&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavy00&show_icons=true&theme=radical&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy00&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhavy00&theme=radical)](https://git.io/streak-stats)
-</div>
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/bhavy00">
+            <img src="https://github-readme-stats.vercel.app/api?username=bhavy00&show_icons=true&theme=radical&count_private=true" alt="Bhavy's Github Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/bhavy00">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy00&langs_count=8" alt="Bhavy's Lang Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+       <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/bhavy00">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=bhavy00&theme=radical" alt="Bhavy's Github Streak" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
 <!--
 **bhavy00/bhavy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
