@@ -15,14 +15,15 @@ I have developed a deep expertise in MongoDB, Express.js, React.js, and Node.js.
 </p>
 -->
 ### Languages & Tools
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
 
 ### Github Stats
-<div align="center">
+
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=bhavy00&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavy00&show_icons=true&theme=radical&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy00&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhavy00&theme=radical)](https://git.io/streak-stats)
-</div>
+
 <!--
 **bhavy00/bhavy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
