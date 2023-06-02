@@ -32,13 +32,14 @@ I have developed a deep expertise in MongoDB, Express.js, React.js, and Node.js.
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img src="https://img.shields.io/badge/material--ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui" />
 </div>
-### Github Stats
 
+### Github Stats
+<div align="center">
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=bhavy00&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavy00&show_icons=true&theme=radical&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy00&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhavy00&theme=radical)](https://git.io/streak-stats)
-
+</div>
 <!--
 **bhavy00/bhavy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
