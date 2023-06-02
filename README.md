@@ -14,7 +14,8 @@ I have developed a deep expertise in MongoDB, Express.js, React.js, and Node.js.
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="" height="30" width="40" />](https://www.codechef.com/users/bhavy007)
 </p>
 -->
-### Languages & Tools
+### Languages, Tools and Skills
+<div align="center">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
@@ -30,7 +31,7 @@ I have developed a deep expertise in MongoDB, Express.js, React.js, and Node.js.
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img src="https://img.shields.io/badge/material--ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui" />
-
+</div>
 ### Github Stats
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=bhavy00&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
