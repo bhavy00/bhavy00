@@ -45,33 +45,15 @@ I have developed a deep expertise in MongoDB, Express.js, React.js, and Node.js.
 
 ### Github Stats
 <div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/bhavy00">
-            <img src="https://github-readme-stats.vercel.app/api?username=bhavy00&show_icons=true&theme=radical&count_private=true" alt="Bhavy's Github Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/bhavy00">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy00&langs_count=8" alt="Bhavy's Lang Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-       <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/bhavy00">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=bhavy00&theme=radical" alt="Bhavy's Github Streak" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
+  <a href="https://github.com/bhavy00">
+    <img src="https://github-readme-stats.vercel.app/api?username=bhavy00&show_icons=true&theme=radical&count_private=true" alt="Bhavy's Github Stats" vertical-align="middle"/>
+  </a>
+  <a href="https://github.com/bhavy00">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy00&langs_count=8" alt="Bhavy's Lang Stats" vertical-align="middle"/>
+  </a>
+  <a href="https://github.com/bhavy00">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bhavy00&theme=radical" alt="Bhavy's Github Streak" vertical-align="middle"/>
+  </a>
 <div>
 <!--
 **bhavy00/bhavy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
