@@ -14,9 +14,9 @@ I have developed a deep expertise in MongoDB, Express.js, React.js, and Node.js.
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="" height="30" width="40" />](https://www.codechef.com/users/bhavy007)
 </p>
 -->
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhavy00&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavy00&show_icons=true&theme=radical&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy00&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhavy00&theme=radical)](https://git.io/streak-stats)
 
 <!--
