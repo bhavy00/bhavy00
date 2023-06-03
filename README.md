@@ -1,4 +1,4 @@
-<img src="https://github.com/bhavy00/bhavy00/blob/main/DALL%C2%B7E%202023-06-03%2023.05.22%20-%20street%20view%20of%20futuristic%20city%20in%20night%20with%20skyscrapers%20cyberpunk.png" alt="banner"/>
+<img src="https://github.com/bhavy00/bhavy00/blob/main/banner2.png" alt="banner"/>
 
 ### Hey Visitor 👋
 
